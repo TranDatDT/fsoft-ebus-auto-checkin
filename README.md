@@ -1,5 +1,5 @@
 ## What is this?
-- A Python script for automatically checking in Ebus at FPT Software and then transferring coin to Utop
+- A **Python 3.7** script for automatically checking in Ebus at FPT Software and then transferring coin to Utop
 - See [this post](https://blog.trandatdt.dev/2019/08/toi-hack-phan-mem-myfsoft-cua-fpt.html)
 
 ## Why I made this?
